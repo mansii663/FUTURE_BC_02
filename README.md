@@ -33,15 +33,6 @@ This repository contains the code and deployment steps for Task 2 of the **Futur
 
 ---
 
-## 📸 Screenshots
-
-| Description | Screenshot |
-|-------------|------------|
-| Remix Deployment | ![Remix Deployment](./screenshots/deployed_contract.png) |
-| Token Imported in MetaMask | ![MetaMask Import](./screenshots/metamask_import.png) |
-
----
-
 ## 📚 Learning Outcome
 
 - Smart contract creation with Solidity
